@@ -8,8 +8,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz OTTO ist in plentymarkets 7 bereits integriert. Um OTTO in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei OTTO nötig.",
-    "en": "OTTO is already integrated into your plentymarkets 7 system. An OTTO seller account is mandatory for setting up OTTO in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes OTTO wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf OTTO zu listen. Die Schnittstelle zu OTTO ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace OTTO enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on OTTO. The interface to OTTO is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
