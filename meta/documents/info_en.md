@@ -1,4 +1,3 @@
-
 # OTTO
 
 <div class="container-toc"></div>
