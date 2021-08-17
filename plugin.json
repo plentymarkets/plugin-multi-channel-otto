@@ -1,9 +1,12 @@
 {
   "version": "1.0.2",
   "name": "OTTO",
-  "marketplaceName": "OTTO Market",
+  "marketplaceName": {
+    "de": "OTTO Market",
+    "en": "OTTO Market"
+  },
   "description": "Über die Anbindung des Online-Marktplatzes OTTO Market wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf OTTO Market zu listen.",
-  "namespace": "MultiChannelOtto",
+  "namespace": "OTTO",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentysystems AG",
   "email": "support@plentymarkets.eu",
@@ -17,5 +20,5 @@
     3881
   ],
   "price": 0.00,
-  "type": "plentyInfo"
+  "type": "plentyinfo"
 }
