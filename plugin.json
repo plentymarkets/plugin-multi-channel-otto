@@ -1,19 +1,20 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "OTTO",
-  "description": "Um OTTO in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei OTTO nötig.",
+  "marketplaceName": "OTTO Market",
+  "description": "Über die Anbindung des Online-Marktplatzes OTTO Market wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf OTTO Market zu listen.",
   "namespace": "MultiChannelOtto",
   "pluginIcon": "icon_plugin_xs.png",
-  "author": "plentymarkets GmbH",
+  "author": "plentysystems AG",
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Über die Anbindung des Online-Marktplatzes OTTO wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf OTTO zu listen. Die Schnittstelle zu OTTO ist in plentymarkets 7 bereits integriert.",
-    "en": "The integration of the online marketplace OTTO enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on OTTO. The interface to OTTO is already integrated into plentymarkets 7."
+    "de": "Über die Anbindung des Online-Marktplatzes OTTO Market wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf OTTO Market zu listen. Die Schnittstelle zu OTTO Market ist in plentymarkets bereits integriert.",
+    "en": "The integration of the online marketplace OTTO Market enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on OTTO Market. The interface to OTTO Market is already integrated into plentymarkets."
   },
   "license": "AGPL-3.0",
   "categories": [
-    3523
+    3881
   ],
   "price": 0.00,
   "type": "plentyInfo"
