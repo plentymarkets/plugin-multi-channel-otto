@@ -4,7 +4,7 @@
 
 ### Über OTTO Market
 
-Durch die Transformation zur Plattform öffnet sich OTTO für Händler:innen, die über OTTO Market nun eine zentrale Anlaufstelle finden, um die eigenen Produkte auf otto.de zu verkaufen. Und das mit Erfolg: Schon über 3.500 Partner bieten mittlerweile ihre Produkte über otto.de an. Eine Zusammenarbeit auf Augenhöhe mit dem Ziel eines gemeinsamen und nachhaltigen Erfolges machen OTTO Market zu einem starken und zuverlässigen Partner im E-Commerce.
+Durch die Transformation zur Plattform öffnet sich OTTO für Händler:innen, die über OTTO Market nun eine zentrale Anlaufstelle finden, um die eigenen Produkte auf otto.de zu verkaufen. Und das mit Erfolg: Schon über 3.500 Partner:innen bieten mittlerweile ihre Produkte über otto.de an. Eine Zusammenarbeit auf Augenhöhe mit dem Ziel eines gemeinsamen und nachhaltigen Erfolges machen OTTO Market zu einem starken und zuverlässigen Partner im E-Commerce.
 
 ### Die Vorteile auf einen Blick
 
@@ -12,12 +12,12 @@ Durch die Transformation zur Plattform öffnet sich OTTO für Händler:innen, di
 * Hohe Reichweite mit über 2,9 Millionen qualifizierten Visits pro Tag
 * Hohe Bestellfrequenz der Kund:innen mit bis zu 10 Bestellungen pro Sekunde
 * Qualitatives Produktumfeld
-* Klare Händlerkriterien
+* Klare Kriterien für Händler:innen
 * Faire Gebührenregelungen
 
 ### Anforderungen an unsere Händler
 
-* Deutsche Unternehmensrechtsform, deutsche Umsatzsteuer-ID und ein Firmensitz in Deutschland (ausgeschlossen Kleinunternehmer gemäß §19 UStG)
+* Deutsche Unternehmensrechtsform, deutsche Umsatzsteuer-ID und ein Firmensitz in Deutschland (ausgeschlossen Kleinunternehmer:innen gemäß §19 UStG)
 * Händler treten als Verkäufer:in zu den Endkund:innen auf
 * Deutschsprachiger Kundenservice
 * Versand aus einem deutschen Warenlager
@@ -25,7 +25,7 @@ Durch die Transformation zur Plattform öffnet sich OTTO für Händler:innen, di
 
 ### Passen wir zusammen?
 
-Sie möchten auf otto.de verkaufen? Dafür sind bestimmte Voraussetzungen notwendig. Um herauszufinden, ob Sie diese Voraussetzungen erfüllen, haben wir eine Checkliste erstellt. <br>
+Sie möchten auf otto.de verkaufen? Dafür sind bestimmte Voraussetzungen notwendig. Um herauszufinden, ob Sie diese Voraussetzungen erfüllen, haben wir eine Checkliste erstellt: <br>
 <a href="https://www.otto.market/de/checkliste.html" target="_blank">Zur Checkliste</a>
 
 <div class="alert alert-info" role="alert">

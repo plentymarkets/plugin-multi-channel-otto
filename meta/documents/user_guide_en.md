@@ -25,7 +25,7 @@ By transforming itself into a platform, OTTO is opening up to retailers, who now
 
 ### Are we a good fit?
 
-Do you want to sell on otto.de? To do so, you need to meet certain critera. To find out whether you meet those critera, we have created a checklist. <br>
+Do you want to sell on otto.de? To do so, you need to meet certain critera. To find out whether you meet those critera, we have created a checklist: <br>
 <a href="https://www.otto.market/en/checkliste.html" target="_blank">Open the checklist</a>
 
 <div class="alert alert-info" role="alert">
