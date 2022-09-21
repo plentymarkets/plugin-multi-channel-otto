@@ -29,5 +29,5 @@ Sie möchten auf otto.de verkaufen? Dafür sind bestimmte Voraussetzungen notwen
 <a href="https://www.otto.market/de/checkliste.html" target="_blank">Zur Checkliste</a>
 
 <div class="alert alert-info" role="alert">
-  Wie du OTTO Market in plentymarkets einrichtest, <a href="https://knowledge.plentymarkets.com/maerkte/otto/otto-market" target="_blank">ist im plentymarkets Handbuch beschrieben</a>.
+  Wie du OTTO Market in plentymarkets einrichtest, <a href="https://knowledge.plentymarkets.com/de-de/manual/main/maerkte/otto-market.html" target="_blank">ist im plentymarkets Handbuch beschrieben</a>.
 </div>
