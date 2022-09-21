@@ -29,5 +29,5 @@ Do you want to sell on otto.de? To do so, you need to meet certain critera. To f
 <a href="https://www.otto.market/en/checkliste.html" target="_blank">Open the checklist</a>
 
 <div class="alert alert-info" role="alert">
-  To find out how to set up OTTO Market in plentymarkets, visit the <a href="https://knowledge.plentymarkets.com/en/markets/otto/otto-market" target="_blank">plentymarkets manual</a>.
+  To find out how to set up OTTO Market in plentymarkets, visit the <a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/otto-market.html" target="_blank">plentymarkets manual</a>.
 </div>

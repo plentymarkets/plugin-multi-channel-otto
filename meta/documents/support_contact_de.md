@@ -8,4 +8,4 @@
 
 ## Handbuch
 
-<a href="https://knowledge.plentymarkets.com/maerkte/otto-interface" target="_blank">plentyKnowledge</a>
+<a href="https://knowledge.plentymarkets.com/de-de/manual/main/maerkte/otto-market.html" target="_blank">plentyKnowledge</a>
