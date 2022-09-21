@@ -8,4 +8,4 @@
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/en/markets/otto-market" target="_blank">plentyKnowledge</a>
+<a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/otto-market.html" target="_blank">plentyKnowledge</a>
